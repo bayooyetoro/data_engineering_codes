@@ -1,5 +1,4 @@
-### Repo Details
-
+#### Welcome! It is all about data engineering logics (Python, Docker, SQL, Kafka and Pysark)
 This repo is a codebase for implementation of some data engineering concepts on:
 
 1. Data Modelling and Compression
@@ -11,3 +10,10 @@ This repo is a codebase for implementation of some data engineering concepts on:
 7. Pipeline Maintenance and Data Quality Patterns
 
 Designed towards learning at `DataExpert.io` summer training.
+
+#### How to use this repo
+• First step is to get `Docker Desktop` running and clone the repo.
+• Then run `docker compose -d` command to get the `PostgreSQL` and its seeded data.
+• The task requirements and its solution are in each folder 
+
+Enyoy!
